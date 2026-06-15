@@ -8,8 +8,7 @@
  <img width="1942" height="809" alt="ChatGPT Image 15 jun 2026, 11_54_35 a m" src="https://github.com/user-attachments/assets/dfeb4916-e3ea-4a35-8331-88176affb1c3" />
 
 🔭 QA Tester Junior, apasionado por la gestión de defectos y el diseño y ejecución de casos de prueba. Busco contribuir al desarrollo de productos de alta calidad que ofrezcan una excelente experiencia a los usuarios.   
-🌱 Cuento con formación en pruebas de software, ejecución de casos de prueba, reporte de defectos y metodologías ágiles. 
-🤓 Me he formando en: 
+🌱 Cuento con formación en;
 
 ✅ Testing:
 - Manual Testing

@@ -10,26 +10,27 @@
 🔭 QA Tester Junior, apasionado por la gestión de defectos y el diseño y ejecución de casos de prueba. Busco contribuir al desarrollo de productos de alta calidad que ofrezcan una excelente experiencia a los usuarios.   
 🌱 Cuento con formación en pruebas de software, ejecución de casos de prueba, reporte de defectos y metodologías ágiles. 
 🤓 Me he formando en: 
-✅ Testing
+
+✅ Testing:
 - Manual Testing
 - UI Testing
 - Regression Testing
 - API Testing
   
-✅ Herramientas
+✅ Herramientas:
 - Jira
 - Postman
 - DevTools
 - Figma
 
-✅ Tecnologías
+✅ Tecnologías:
 - JavaScript
 - Excel
 
-✅ Metodologías
+✅ Metodologías:
 - Scrum
 - Agile
 
--->## Current Works
+-->## Echa un vistazo a mis proyectos:
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Also, I've got a **Youtube Channel, [The Broke Coder](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)**. Be sure to check it out as I keep posting videos about a variety of things, ranging from *DIY Projects to Tutorials* about various Technologies.

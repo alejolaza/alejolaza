@@ -39,7 +39,7 @@
 
 ## Echa un vistazo a mis proyectos 
 
-## **Pruebas manuales de API en Urban Grocers**
+**Pruebas manuales de API en Urban Grocers**
 
 <img width="1074" height="737" alt="Captura de pantalla 2026-06-02 223705" src="https://github.com/user-attachments/assets/9ce61c2c-b2a5-44df-8e10-2fcc8322a14a" />
 
@@ -61,7 +61,7 @@
 
 🔗**Link del proyecto:**  https://docs.google.com/spreadsheets/d/1ppbePR9ND5Y0D9wX6TH2er1tvckCzTPM/edit?usp=sharing&ouid=103743849441743061968&rtpof=true&sd=true
 
-## **Pruebas de aplicación web en Urban Routes**
+**Pruebas de aplicación web en Urban Routes**
 
 <img width="1893" height="868" alt="Captura de pantalla 2026-05-17 182623" src="https://github.com/user-attachments/assets/3feb4ea3-e144-4133-b9e3-29ead2b2968d" />
 
